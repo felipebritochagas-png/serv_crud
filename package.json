@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/felipebritochagas-png/serv_crud/issues"
   },
-  "homepage": "https://github.com/felipebritochagas-png/serv_crud#readme"
+  "homepage": "https://github.com/felipebritochagas-png/serv_crud#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
